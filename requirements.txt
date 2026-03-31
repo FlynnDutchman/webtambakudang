@@ -3,5 +3,4 @@ streamlit
 pandas
 folium
 streamlit-folium
-xyzservices>=2024.1.0
-geemap
+geemap==0.32.1
