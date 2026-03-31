@@ -1,4 +1,7 @@
 earthengine-api
-geemap
 streamlit
 pandas
+folium
+streamlit-folium
+geemap
+python-box<7.0.0
